@@ -1,0 +1,36 @@
+#display{
+    font-size:  50px;
+    font-weight: bold;
+
+}
+#img_display{
+    height:300px;
+    width: 500px;
+    margin-right:1px;
+
+}
+#hr1{
+    color: rgb(0, 0, 0);
+    opacity: 1;
+    height: 10px;
+    width: 125px;
+    border-radius: 75px;
+    align-self: center;
+
+}
+#webc{
+    font-size: 35px;
+    font-weight: bold;
+}
+#camera
+{
+ 
+    border:1px solid grey;
+}
+.navbar{
+    position: sticky;
+}
+.nav-link:hover{
+    font-size: large;
+    color:white;
+}
